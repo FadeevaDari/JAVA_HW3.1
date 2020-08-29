@@ -1,4 +1,4 @@
-public class Miles {
+public class miles {
     public static void main(String[] args) {
         int ticket = 36410;
         int bonus = 20;
